@@ -30,17 +30,20 @@ A collection of carefully crafted Oh My Posh themes featuring clean, modern desi
 3. Copy the theme file to your Oh My Posh themes directory
 4. Configure your shell to use the theme:
 
-### For PowerShell:
+### For PowerShell
+
 ```powershell
 oh-my-posh init pwsh --config ~/path/to/the-emptiness-machine.omp.json | Invoke-Expression
 ```
 
-### For Bash:
+### For Bash
+
 ```bash
 eval "$(oh-my-posh init bash --config ~/path/to/the-emptiness-machine.omp.json)"
 ```
 
-### For Zsh:
+### For Zsh
+
 ```zsh
 eval "$(oh-my-posh init zsh --config ~/path/to/the-emptiness-machine.omp.json)"
 ```
