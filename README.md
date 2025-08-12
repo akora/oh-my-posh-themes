@@ -6,9 +6,7 @@ A collection of carefully crafted Oh My Posh themes featuring clean, modern desi
 
 ### The Emptiness Machine (Original)
 ![The Emptiness Machine Theme](https://github.com/user-attachments/assets/62bdc27d-ecd4-45c3-b17c-98c4b91f6297)
-
 ![The Emptiness Machine Theme](https://github.com/user-attachments/assets/174f28c7-9faa-4aa2-936f-6c0f051233ff)
-
 ![The Emptiness Machine Theme](https://github.com/user-attachments/assets/e25c97cb-d82a-44aa-b330-a6a442eed8d4)
 
 ## Features
