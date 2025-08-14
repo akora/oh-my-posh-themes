@@ -16,12 +16,53 @@ A collection of carefully crafted Oh My Posh themes featuring clean, modern desi
 
 ## Available Themes
 
-- `the-emptiness-machine.omp.json` - The original theme with balanced colors
-- `the-emptiness-machine-blue.omp.json` - Classic blue variation
-- `the-emptiness-machine-blue-gradient.omp.json` - Smooth blue gradient design
-- `the-emptiness-machine-blue-skies.omp.json` - Light blue variation inspired by clear skies
-- `the-emptiness-machine-gray-blue.omp.json` - Professional gray and blue combination
-- `the-emptiness-machine-time.omp.json` - Time-focused variation
+### The Emptiness Machine (Original)
+
+![The Emptiness Machine](screenshots/the-emptiness-machine.png)
+
+The original theme with balanced colors.
+
+**File:** `the-emptiness-machine.omp.json`
+
+### Blue Variation
+
+![Blue Variation](screenshots/the-emptiness-machine-blue.png)
+
+Classic blue variation with professional styling.
+
+**File:** `the-emptiness-machine-blue.omp.json`
+
+### Blue Gradient
+
+![Blue Gradient](screenshots/the-emptiness-machine-blue-gradient.png)
+
+Smooth blue gradient design for a modern look.
+
+**File:** `the-emptiness-machine-blue-gradient.omp.json`
+
+### Blue Skies
+
+![Blue Skies](screenshots/the-emptiness-machine-blue-skies.png)
+
+Light blue variation inspired by clear skies.
+
+**File:** `the-emptiness-machine-blue-skies.omp.json`
+
+### Gray Blue
+
+![Gray Blue](screenshots/the-emptiness-machine-gray-blue.png)
+
+Professional gray and blue combination.
+
+**File:** `the-emptiness-machine-gray-blue.omp.json`
+
+### Time Focused
+
+![Time Focused](screenshots/the-emptiness-machine-time.png)
+
+Time-focused variation with enhanced time display.
+
+**File:** `the-emptiness-machine-time.omp.json`
 
 ## Installation
 
